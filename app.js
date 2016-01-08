@@ -7,7 +7,8 @@ window.onload = function(){
 
     output.innerHTML
     = 'x方向: '+gravity.x
-    + '<br>y方向: '+gravity.y;
+    + '<br>y方向: '+gravity.y
+    + '<br>z方向: '+gravity.z;
 
   },true);
 
